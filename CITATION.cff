@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: >-
+  If you use this animation, or a screenshot or recording of it, in a talk,
+  poster, paper or video, please credit it as below.
+type: software
+title: "Gravitational-wave lensing animation"
+abstract: >-
+  Interactive 3D animation of a gravitational wave from a binary black hole
+  merger lensed by a galaxy or a galaxy cluster: strong lensing (multiple
+  images with magnifications, time delays and Morse phases), weak lensing and
+  wave-optics microlensing by a star, with the caustics of the lens and the
+  strain recorded by the detector.
+authors:
+  - family-names: "Garcia Sàbat"
+    given-names: "Xavier"
+repository-code: "https://github.com/XxavierGarcia/gw-lensing-animation"
+url: "https://xxaviergarcia.github.io/gw-lensing-animation/"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-27"
+keywords:
+  - gravitational waves
+  - gravitational lensing
+  - microlensing
+  - animation
+  - outreach
+references:
+  - type: software
+    title: "ler: LVK (LIGO-Virgo-KAGRA collaboration) event (compact-binary mergers) rate calculator and simulator"
+    notes: "The animation started from the gravitational lensing animation in the documentation of ler."
+    url: "https://ler.hemantaph.com"
+    doi: "10.21105/joss.07420"
+    authors:
+      - family-names: "Phurailatpam"
+        given-names: "Hemantakumar"
+      - family-names: "More"
+        given-names: "Anupreeta"
+      - family-names: "Narola"
+        given-names: "Harsh"
+      - family-names: "Ng"
+        given-names: "Leo C. Y."
+      - family-names: "Janquart"
+        given-names: "Justin"
+      - family-names: "Van Den Broeck"
+        given-names: "Chris"
+      - family-names: "Hannuksela"
+        given-names: "Otto Akseli"
+      - family-names: "Singh"
+        given-names: "Neha"
+      - family-names: "Keitel"
+        given-names: "David"
