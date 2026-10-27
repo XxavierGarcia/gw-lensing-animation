@@ -4,7 +4,9 @@ An interactive 3D animation of a gravitational wave from a binary black hole mer
 
 **[▶ Open the animation](https://xxaviergarcia.github.io/gw-lensing-animation/)**
 
-![Einstein cross: the fourth copy of the signal reaches the detector](docs/img/einstein-cross.jpg)
+[![The Einstein cross scenario, first from outside and then from the detector](docs/video/preview.webp)](https://xxaviergarcia.github.io/gw-lensing-animation/docs/video/gw-lensing-animation.mp4)
+
+*The Einstein cross scenario, seen from outside and then from the detector: four copies of the same signal arrive days apart. Click it to watch it in full quality, or download the [MP4](docs/video/gw-lensing-animation.mp4) (1080p, 26 s).*
 
 ## How to open it
 
@@ -106,6 +108,8 @@ Everything lives in [`index.html`](index.html). Scenarios are entries of the `SC
 The animation is based on the gravitational lensing animation in the documentation of [ler](https://ler.hemantaph.com) by Hemantakumar Phurailatpam (MIT License), adapted and extended by Xavier Garcia Sàbat.
 
 It uses [three.js](https://threejs.org) (MIT License), loaded from a CDN, and embeds subsets of the Latin Modern Roman font (GUST Font License) and of the KaTeX Main and KaTeX Math fonts (SIL Open Font License 1.1).
+
+The captions of the video use the CMU Serif font (SIL Open Font License 1.1).
 
 ## License and how to credit it
 
